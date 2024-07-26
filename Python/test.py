@@ -1,3 +1,8 @@
 import os
-language_to_extension = {"lang": ["Python", "C++"], "extension": ["py", "cpp"]}
-print(len(language_to_extension))
+l = [1,2,3,4]
+
+try:
+    l[2]
+    print("t")
+except:
+    print("you")
