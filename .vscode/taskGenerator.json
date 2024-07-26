@@ -1,0 +1,14 @@
+{
+    "language": [
+        "Python",
+        "C++"
+    ],
+    "extension": [
+        "py",
+        "cpp"
+    ],
+    "filler": [
+        "import os\nimport sys\n\n",
+        "#include <iostream>\nint main() {\n\t\n\treturn 0;\n}"
+    ]
+}
